@@ -1,0 +1,301 @@
+Top,Year,Player_name_name,Player_name_Country,Player_name_Games_played,Player_name_Number_of_assists
+1,2022,Lionel Messi,Argentina,7,3
+2,2022,Ivan Perisic,Croatia,7,3
+3,2022,Antoine Griezmann,France,7,3
+4,2022,Harry Kane,England,5,3
+5,2022,Bruno Fernandes,Portugal,4,3
+6,2022,Kylian Mbapp√©,France,7,2
+7,2022,Ousmane Demb√©l√©,France,7,2
+8,2022,Theo Hern√°ndez,France,6,2
+9,2022,Mislav Orsic,Croatia,6,2
+10,2022,Denzel Dumfries,Netherlands,5,2
+11,2022,Marcus Thuram,France,5,2
+12,2022,Jo√£o F√©lix,Portugal,4,2
+13,2022,Christian Pulisic,United States,4,2
+14,2022,Vin√≠cius J√∫nior,Brazil,4,2
+15,2022,Rapha√´l Guerreiro,Portugal,4,2
+16,2022,Jordi Alba,Spain,4,2
+17,2022,Phil Foden,England,4,2
+18,2022,Davy Klaassen,Netherlands,4,2
+19,2022,F√©lix Torres,Ecuador,3,2
+20,2022,Serge Gnabry,Germany,3,2
+21,2022,Diogo Dalot,Portugal,3,2
+22,2022,Dusan Tadic,Serbia,3,2
+23,2022,Andrija Zivkovic,Serbia,3,2
+24,2022,Nicol√°s Otamendi,Argentina,7,1
+25,2022,Hakim Ziyech,Morocco,7,1
+26,2022,Achraf Hakimi,Morocco,7,1
+27,2022,Nahuel Molina,Argentina,7,1
+28,2022,Enzo Fern√°ndez,Argentina,7,1
+29,2022,Josip Juranovic,Croatia,6,1
+30,2022,Dejan Lovren,Croatia,6,1
+31,2022,Alexis Mac Allister,Argentina,6,1
+32,2022,Adrien Rabiot,France,6,1
+33,2022,Yahya Attiyat-Allah,Morocco,6,1
+34,2022,Marko Livaja,Croatia,6,1
+35,2022,Frenkie de Jong,Netherlands,5,1
+36,2022,Harry Maguire,England,5,1
+37,2022,Luke Shaw,England,5,1
+38,2022,Daley Blind,Netherlands,5,1
+39,2022,Jude Bellingham,England,5,1
+40,2022,√Ångel Di Mar√≠a,Argentina,5,1
+41,2022,Teun Koopmeiners,Netherlands,5,1
+42,2022,Rodrygo,Brazil,5,1
+43,2022,Abdelhamid Sabiri,Morocco,5,1
+44,2022,Casemiro,Brazil,4,1
+45,2022,Maya Yoshida,Japan,4,1
+46,2022,Thiago Silva,Brazil,4,1
+47,2022,Dani Olmo,Spain,4,1
+48,2022,Son Heung-Min,South Korea,4,1
+49,2022,Robert Lewandowski,Poland,4,1
+50,2022,Mathew Leckie,Australia,4,1
+1,2002,Michael Ballack,Germany,6,6
+2,2002,David Beckham,England,5,3
+3,2002,Ronaldinho,Brazil,5,3
+4,2002,Christian Ziege,Germany,5,3
+5,2002,Francisco De Pedro,Spain,4,3
+6,2002,Miroslav Klose,Germany,7,2
+7,2002,Hasan Gokhan Sas,Turkey,6,2
+8,2002,Lee Young-Pyo,South Korea,5,2
+9,2002,El-Hadji Diouf,Senegal,5,2
+10,2002,KlÈberson,Brazil,5,2
+11,2002,Francesco Totti,Italy,4,2
+12,2002,Lee Eul-Young,South Korea,4,2
+13,2002,Henri Camara,Senegal,4,2
+14,2002,Luis Figo,Portugal,3,2
+15,2002,Daisuke Ichikawa,Japan,3,2
+16,2002,Dmitry Sychev,Russia,3,2
+17,2002,Steven Bryce,Costa Rica,3,2
+18,2002,Eric Van Meir,Belgium,2,2
+19,2002,Junior,Brazil,1,2
+20,2002,Cafu,Brazil,7,1
+21,2002,Rivaldo,Brazil,7,1
+22,2002,Hakan Sukur,Turkey,7,1
+23,2002,Bernd Schneider,Germany,7,1
+24,2002,Yildiray Basturk,Turkey,7,1
+25,2002,Umit Davala,Turkey,7,1
+26,2002,Ilhan Mansiz,Turkey,7,1
+27,2002,Oliver Neuville,Germany,6,1
+28,2002,Ergun Penbe,Turkey,5,1
+29,2002,John O'Brien,United States,5,1
+30,2002,Tony Sanneh,United States,5,1
+31,2002,Brian McBride,United States,5,1
+32,2002,Carles Puyol,Spain,4,1
+33,2002,Matt Holland,Republic of Ireland,4,1
+34,2002,Khalilou Fadiga,Senegal,4,1
+35,2002,Nicky Butt,England,4,1
+36,2002,Bart Goor,Belgium,4,1
+37,2002,Francisco Arce,Paraguay,4,1
+38,2002,Hidetoshi Nakata,Japan,4,1
+39,2002,Cuauhtemoc Blanco,Mexico,4,1
+40,2002,Denis RamÛn Caniza,Paraguay,4,1
+41,2002,Thomas Gravesen,Denmark,4,1
+42,2002,Stig Tˆfting,Denmark,4,1
+43,2002,Steve Staunton,Republic of Ireland,4,1
+44,2002,Gary Kelly,Republic of Ireland,4,1
+45,2002,Gert Verheyen,Belgium,4,1
+46,2002,Anders Svensson,Sweden,4,1
+47,2002,RamÛn Morales,Mexico,4,1
+48,2002,Jesper Gronkjaer,Denmark,4,1
+49,2002,Mauricio Wright,Costa Rica,3,1
+50,2002,Joseph Yobo,Nigeria,3,1
+1,2006,Francesco Totti,Italy,7,4
+2,2006,Bastian Schweinsteiger,Germany,7,3
+3,2006,Andrea Pirlo,Italy,7,3
+4,2006,Luis Figo,Portugal,7,3
+5,2006,Patrick Vieira,France,7,2
+6,2006,Juan Rom·n Riquelme,Argentina,5,2
+7,2006,David Beckham,England,5,2
+8,2006,Mario Mendez,Mexico,4,2
+9,2006,Edison Vicente Mendez Mendez,Ecuador,4,2
+10,2006,Maxim Kalinichenko,Ukraine,4,2
+11,2006,Cafu,Brazil,4,2
+12,2006,John Aloisi,Australia,4,2
+13,2006,Franck RibÈry,France,7,1
+14,2006,Sim„o,Portugal,7,1
+15,2006,Bernd Schneider,Germany,7,1
+16,2006,Miroslav Klose,Germany,7,1
+17,2006,Sylvain Wiltord,France,7,1
+18,2006,Tim Borowski,Germany,6,1
+19,2006,Gianluca Zambrotta,Italy,6,1
+20,2006,Zinedine Zidane,France,6,1
+21,2006,Pedro Miguel Pauleta,Portugal,6,1
+22,2006,Alberto Gilardino,Italy,5,1
+23,2006,Juan,Brazil,5,1
+24,2006,Kak·,Brazil,5,1
+25,2006,Ronaldinho,Brazil,5,1
+26,2006,Ronaldo,Brazil,5,1
+27,2006,Michael Ballack,Germany,5,1
+28,2006,Andriy Shevchenko,Ukraine,5,1
+29,2006,Anatoliy Tymoschuk,Ukraine,5,1
+30,2006,Joe Cole,England,5,1
+31,2006,Tranquillo Barnetta,Switzerland,4,1
+32,2006,Pavel Segura Pardo,Mexico,4,1
+33,2006,Carlos Tevez,Argentina,4,1
+34,2006,Antonio Valencia,Ecuador,4,1
+35,2006,Stephen Appiah,Ghana,4,1
+36,2006,Robinho,Brazil,4,1
+37,2006,Cesc F‡bregas,Spain,4,1
+38,2006,David Odonkor,Germany,4,1
+39,2006,Juan Pablo Sorin,Argentina,4,1
+40,2006,Robin van Persie,Netherlands,4,1
+41,2006,Tobias Linderoth,Sweden,4,1
+42,2006,Ivan Jaime Llorentty Kaviedes,Ecuador,4,1
+43,2006,Xavi,Spain,4,1
+44,2006,Erik Edman,Sweden,4,1
+45,2006,Marcus Allback,Sweden,4,1
+46,2006,Hern·n Crespo,Argentina,4,1
+47,2006,Sinha,Mexico,4,1
+48,2006,Arthur Boka,Ivory Coast,3,1
+49,2006,Malek Mouath,Saudi Arabia,3,1
+50,2006,Jose Nsimba Baptista Ze Kalanga,Angola,3,1
+1,2010,Bastian Schweinsteiger,Germany,7,3
+2,2010,Dirk Kuyt,Netherlands,7,3
+3,2010,Mesut ÷zil,Germany,7,3
+4,2010,Thomas M¸ller,Germany,6,3
+5,2010,Kak·,Brazil,4,3
+6,2010,Luis Su·rez,Uruguay,6,2
+7,2010,Lukas Podolski,Germany,6,2
+8,2010,Ki Sung-Yueng,South Korea,4,2
+9,2010,Walter Gargano,Uruguay,3,2
+10,2010,Arthur Boka,Ivory Coast,1,2
+11,2010,Egidio ArÈvalo RÌos,Uruguay,7,1
+12,2010,Gerard PiquÈ,Spain,7,1
+13,2010,Diego Forl·n,Uruguay,7,1
+14,2010,Wesley Sneijder,Netherlands,7,1
+15,2010,Diego PÈrez,Uruguay,7,1
+16,2010,Xavi,Spain,7,1
+17,2010,David Villa,Spain,7,1
+18,2010,Robin van Persie,Netherlands,7,1
+19,2010,Manuel Neuer,Germany,6,1
+20,2010,Philipp Lahm,Germany,6,1
+21,2010,Edinson Cavani,Uruguay,6,1
+22,2010,Asamoah Gyan,Ghana,5,1
+23,2010,Paulo da Silva,Paraguay,5,1
+24,2010,Kwadwo Asamoah,Ghana,5,1
+25,2010,Lionel Messi,Argentina,5,1
+26,2010,Maicon,Brazil,5,1
+27,2010,Arjen Robben,Netherlands,5,1
+28,2010,JÈrÙme Boateng,Germany,5,1
+29,2010,Nicol·s Burdisso,Argentina,5,1
+30,2010,Lucas Barrios,Paraguay,5,1
+31,2010,Rafael van der Vaart,Netherlands,5,1
+32,2010,Keisuke Honda,Japan,4,1
+33,2010,Steve Cherundolo,United States,4,1
+34,2010,AndrÈ Ayew,Ghana,4,1
+35,2010,F·bio Coentr„o,Portugal,4,1
+36,2010,Cristiano Ronaldo,Portugal,4,1
+37,2010,Rafael M·rquez,Mexico,4,1
+38,2010,Steven Gerrard,England,4,1
+39,2010,Gerardo Torrado,Mexico,4,1
+40,2010,Marek Hamsik,Slovakia,4,1
+41,2010,Jozy Altidore,United States,4,1
+42,2010,Robinho,Brazil,4,1
+43,2010,Alexis S·nchez,Chile,4,1
+44,2010,Raul Meireles,Portugal,4,1
+45,2010,Tiago,Portugal,4,1
+46,2010,Felipe Melo,Brazil,4,1
+47,2010,Daisuke Matsui,Japan,4,1
+48,2010,Emile Heskey,England,4,1
+49,2010,Cesc F‡bregas,Spain,4,1
+50,2010,Ramires,Brazil,4,1
+1,2014,Juan Cuadrado,Colombia,5,4
+2,2014,Toni Kroos,Germany,7,3
+3,2014,Thomas M¸ller,Germany,7,3
+4,2014,Daley Blind,Netherlands,7,3
+5,2014,Philipp Lahm,Germany,7,2
+6,2014,Oscar,Brazil,7,2
+7,2014,Marcelo,Brazil,6,2
+8,2014,Karim Benzema,France,5,2
+9,2014,Christian BolaÒos,Costa Rica,5,2
+10,2014,James RodrÌguez,Colombia,5,2
+11,2014,Eden Hazard,Belgium,5,2
+12,2014,Daryl Janmaat,Netherlands,5,2
+13,2014,Ricardo RodrÌguez,Switzerland,4,2
+14,2014,Kevin De Bruyne,Belgium,4,2
+15,2014,Sofiane Feghouli,Algeria,4,2
+16,2014,Emmanuel Emenike,Nigeria,4,2
+17,2014,Eduardo Vargas,Chile,4,2
+18,2014,Graham Zusi,United States,4,2
+19,2014,Josip Drmic,Switzerland,4,2
+20,2014,Serge Aurier,Ivory Coast,3,2
+21,2014,Walter AyovÌ,Ecuador,3,2
+22,2014,Abel Aguilar,Colombia,3,2
+23,2014,Lionel Messi,Argentina,7,1
+24,2014,Benedikt Hˆwedes,Germany,7,1
+25,2014,Arjen Robben,Netherlands,7,1
+26,2014,David Luiz,Brazil,7,1
+27,2014,Mesut ÷zil,Germany,7,1
+28,2014,Wesley Sneijder,Netherlands,7,1
+29,2014,Gonzalo HiguaÌn,Argentina,7,1
+30,2014,Ramires,Brazil,7,1
+31,2014,Luiz Gustavo,Brazil,6,1
+32,2014,Ezequiel Lavezzi,Argentina,6,1
+33,2014,AndrÈ Sch¸rrle,Germany,6,1
+34,2014,J˙nior DÌaz,Costa Rica,5,1
+35,2014,Neymar,Brazil,5,1
+36,2014,Joel Campbell,Costa Rica,5,1
+37,2014,Sami Khedira,Germany,5,1
+38,2014,Paul Pogba,France,5,1
+39,2014,Olivier Giroud,France,5,1
+40,2014,Gˆkhan Inler,Switzerland,4,1
+41,2014,Alexis S·nchez,Chile,4,1
+42,2014,Michael Bradley,United States,4,1
+43,2014,Stephan Lichtsteiner,Switzerland,4,1
+44,2014,Jermaine Jones,United States,4,1
+45,2014,Giorgos Samaras,Greece,4,1
+46,2014,Charles Ar·nguiz,Chile,4,1
+47,2014,Edinson Cavani,Uruguay,4,1
+48,2014,Patrice Evra,France,4,1
+49,2014,Rafael M·rquez,Mexico,4,1
+50,2014,HÈctor Herrera,Mexico,4,1
+1,2018,Lucas Hern·ndez,France,7,2
+2,2018,Antoine Griezmann,France,7,2
+3,2018,Kevin De Bruyne,Belgium,6,2
+4,2018,Eden Hazard,Belgium,6,2
+5,2018,Thomas Meunier,Belgium,5,2
+6,2018,Philippe Coutinho,Brazil,5,2
+7,2018,Viktor Claesson,Sweden,5,2
+8,2018,Artem Dzyuba,Russia,5,2
+9,2018,Aleksandr Golovin,Russia,4,2
+10,2018,Lionel Messi,Argentina,4,2
+11,2018,Juan Quintero,Colombia,4,2
+12,2018,Youri Tielemans,Belgium,4,2
+13,2018,Wahbi Khazri,Tunisia,3,2
+14,2018,…ver Banega,Argentina,3,2
+15,2018,James RodrÌguez,Colombia,3,2
+16,2018,Carlos S·nchez,Uruguay,3,2
+17,2018,Luka Modric,Croatia,7,1
+18,2018,Harry Maguire,England,7,1
+19,2018,Ivan Perisic,Croatia,7,1
+20,2018,Olivier Giroud,France,7,1
+21,2018,Domagoj Vida,Croatia,6,1
+22,2018,Mario Mandzukic,Croatia,6,1
+23,2018,Sime Vrsaljko,Croatia,6,1
+24,2018,Kieran Trippier,England,6,1
+25,2018,Toby Alderweireld,Belgium,6,1
+26,2018,Jesse Lingard,England,6,1
+27,2018,Romelu Lukaku,Belgium,6,1
+28,2018,Marcelo Brozovic,Croatia,6,1
+29,2018,Raheem Sterling,England,6,1
+30,2018,Nacer Chadli,Belgium,6,1
+31,2018,Dries Mertens,Belgium,6,1
+32,2018,Roman Zobnin,Russia,5,1
+33,2018,Ilya Kutepov,Russia,5,1
+34,2018,M·rio Fernandes,Russia,5,1
+35,2018,Ashley Young,England,5,1
+36,2018,Neymar,Brazil,5,1
+37,2018,Luis Su·rez,Uruguay,5,1
+38,2018,Gabriel Jesus,Brazil,5,1
+39,2018,Ola Toivonen,Sweden,5,1
+40,2018,Rodrigo Bentancur,Uruguay,5,1
+41,2018,Willian,Brazil,5,1
+42,2018,Corentin Tolisso,France,5,1
+43,2018,Mateo Kovacic,Croatia,5,1
+44,2018,Christian Eriksen,Denmark,4,1
+45,2018,Sergio Busquets,Spain,4,1
+46,2018,Thomas Delaney,Denmark,4,1
+47,2018,RaphaÎl Guerreiro,Portugal,4,1
+48,2018,Yuto Nagatomo,Japan,4,1
+49,2018,Xherdan Shaqiri,Switzerland,4,1
+50,2018,Gaku Shibasaki,Japan,4,1
