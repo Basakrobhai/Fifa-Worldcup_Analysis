@@ -1,4 +1,4 @@
-#  **FIFA World Cup -Complete Historical Analysis**
+#  **FIFA World Cup - Complete Historical Analysis**
 
 > **Every tournament · Every match · Every record · 1930 → 2022 · Looking ahead to 2026**
 
@@ -10,7 +10,7 @@ dark-themed chart suite.
 
 ---
 
-##  Table of Contents
+##  **Table of Contents**
 
 1. [Project Structure](#-project-structure)
 2. [Datasets](#-datasets)
@@ -37,7 +37,7 @@ dark-themed chart suite.
 
 ---
 
-##  Project Structure
+##  **Project Structure**
 
 ```
 worldcup-analysis/
@@ -74,7 +74,7 @@ worldcup-analysis/
 
 ---
 
-##  Datasets
+##  **Datasets**
 
 | File | Rows | Year Range | Key Columns |
 |------|------|------------|-------------|
@@ -89,7 +89,7 @@ worldcup-analysis/
 
 ---
 
-##  Setup & Requirements
+##  **Setup & Requirements**
 
 **Python version:** 3.8 or higher
 
@@ -112,7 +112,7 @@ jupyter>=1.0.0
 
 ---
 
-##  How to Run
+##  **How to Run**
 
 1. Clone or unzip the project folder.
 2. Install requirements (see above).
@@ -131,11 +131,11 @@ jupyter notebook notebooks/Main.ipynb
 
 ---
 
-## 📈 Analysis & Visualisations
+##  **Analysis & Visualisations**
 
 ---
 
-### 1. All-Time Champions
+### **1. All-Time Champions**
 
 ![Champions](worldcup-analysis/images/champions.png)
 
@@ -165,7 +165,7 @@ have ever won the World Cup in 22 attempts.
 
 ---
 
-### 2. Goals Over Time
+### **2. Goals Over Time**
 
 ![Goals Overview](worldcup-analysis/images/goals_overview.png)
 
@@ -186,7 +186,7 @@ physical conditioning, and tactical sophistication in the modern game.
 
 ---
 
-### 3. Match Outcomes
+### **3. Match Outcomes**
 
 ![Match Outcomes](worldcup-analysis/images/match_outcomes.png)
 
@@ -213,7 +213,7 @@ are surprisingly similar in their home/away split.
 
 ---
 
-### 4. First vs Second Half Scoring
+### **4. First vs Second Half Scoring**
 
 ![Halftime Scoring](worldcup-analysis/images/halftime_scoring.png)
 
@@ -240,7 +240,7 @@ goals) are extreme outliers.
 
 ---
 
-### 5. Team Win Rates & Appearances
+### **5. Team Win Rates & Appearances**
 
 ![Team Records](worldcup-analysis/images/team_records.png)
 
@@ -263,7 +263,7 @@ tally over decades of competition.
 
 ---
 
-### 6. Goals by Stage
+### **6. Goals by Stage**
 
 ![Goals by Stage](worldcup-analysis/images/goals_by_stage.png)
 
@@ -287,7 +287,7 @@ contain.
 
 ---
 
-### 7. Biggest Victories & Highest-Scoring Matches
+### **7. Biggest Victories & Highest-Scoring Matches**
 
 ![Biggest Wins](worldcup-analysis/images/biggest_wins.png)
 
@@ -308,7 +308,7 @@ biggest-margin chart on the left.
 
 ---
 
-### 8. Attendance
+### **8. Attendance**
 
 ![Attendance](worldcup-analysis/images/attendance.png)
 
@@ -342,7 +342,7 @@ pulling the mean above the median.
 
 ---
 
-### 9. Top Scorers (2002–2022)
+### **9. Top Scorers (2002–2022)**
 
 ![Top Scorers](worldcup-analysis/images/top_scorers.png)
 
@@ -373,7 +373,7 @@ dominant nations.
 
 ---
 
-### 10. Top Assists (2002–2022)
+### **10. Top Assists (2002–2022)**
 
 ![Top Assists](worldcup-analysis/images/top_assists.png)
 
@@ -396,7 +396,7 @@ goal-scoring, suggesting creativity is less concentrated than clinical finishing
 
 ---
 
-### 11. Discipline / Cards (2002–2022)
+### **11. Discipline / Cards (2002–2022)**
 
 ![Discipline](worldcup-analysis/images/discipline.png)
 
@@ -422,7 +422,7 @@ cleanest disciplinary records of the modern era.
 
 ---
 
-### 12. Host Nation Budgets
+### **12. Host Nation Budgets**
 
 ![Budget](worldcup-analysis/images/budget.png)
 
@@ -437,7 +437,7 @@ existing infrastructure across three countries, is expected to cost a fraction o
 
 ---
 
-### 13. Master Dashboard
+### **13. Master Dashboard**
 
 ![Dashboard](worldcup-analysis/images/dashboard.png)
 
@@ -460,7 +460,7 @@ It is designed to serve as a self-contained one-page summary of the project.
 
 ---
 
-## 🔍 Key Findings
+## **Key Findings**
 
 | # | Finding | Evidence |
 |---|---------|----------|
@@ -477,7 +477,7 @@ It is designed to serve as a self-contained one-page summary of the project.
 
 ---
 
-## ⚠️ Limitations
+## **Limitations**
 
 ### Data Coverage Gaps
 - **`WorldCupMatches.csv` ends at 2014.** The three most recent World Cups (2018, 2022, and
@@ -518,7 +518,7 @@ It is designed to serve as a self-contained one-page summary of the project.
   advantage observed in the data is therefore a fixture-list effect (crowd allocation, draw
   seeding) rather than a traditional home-ground advantage.
 
-### Methodological Limitations
+### **Methodological Limitations**
 - **Win rate analysis uses a 10-match minimum** to prevent small-sample distortion. Teams
   with fewer than 10 World Cup appearances are excluded from Section 5. This means some
   historically notable nations with sporadic participation are not ranked.
@@ -537,7 +537,7 @@ It is designed to serve as a self-contained one-page summary of the project.
 
 ---
 
-## 🌍 Looking Ahead -2026 World Cup
+## **Looking Ahead - 2026 World Cup**
 
 The **2026 FIFA World Cup** (USA 🇺🇸 · Canada 🇨🇦 · Mexico 🇲🇽) represents the largest
 structural change to the tournament in 28 years.
@@ -563,7 +563,7 @@ England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Germany 🇩🇪, Morocco 🇲🇦, Japan 
 
 ---
 
-## 🛠️ Tech Stack
+##  **Tech Stack**
 
 | Tool | Version | Purpose |
 |------|---------|---------|
