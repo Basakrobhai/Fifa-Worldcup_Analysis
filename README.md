@@ -67,7 +67,7 @@ worldcup-analysis/
 │   └── dashboard.png
 │
 ├── notebooks/
-│   └── Main-Code-Copy1.ipynb      # Primary analysis notebook (run this)
+│   └── Main.ipynb      # Primary analysis notebook (run this)
 │
 └── requirements.txt
 ```
