@@ -84,7 +84,7 @@ worldcup-analysis/
 | `FIFA_top_assists.csv` | 300 | 2002 – 2022 | Player, Country, Assists, Games_Played |
 | `FIFA_score_table.csv` | 191 | 2002 – 2022 | Country, Yellow_Cards, Red_Cards, Points |
 
-All datasets were sourced from [Kaggle — Fifa Worldcup Match Insights (1930 to 2014)]([https://www.kaggle.com/datasets/saadaliyaseen/fifa-world-cup-match-insights]), and
+All datasets were sourced from [Kaggle — Fifa Worldcup Match Insights (1930 to 2014)](https://www.kaggle.com/datasets/saadaliyaseen/fifa-world-cup-match-insights), and
 
 
 > **Note:** `WorldCupMatches.csv` contains 4,572 rows but only 852 are populated -the
